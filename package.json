@@ -1,0 +1,41 @@
+{
+  "name": "Redova",
+  "version": "0.0.1",
+  "description": "Create mobile apps using React + Cordova",
+  "dependencies": {},
+  "devDependencies": {
+    "jspm": "0.16.19",
+    "stylus": "^0.53.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "postinstall": "./node_modules/.bin/jspm install"
+  },
+  "author": "Matt Carlucci <matthewcarlucci09@gmail.com>",
+  "license": "MIT",
+  "jspm": {
+    "registry": "npm",
+    "directories": {
+      "baseURL": "www"
+    },
+    "dependencies": {
+      "axios": "^0.8.1",
+      "babel-plugin-transform-decorators": "^6.5.0",
+      "babel-polyfill": "^6.6.1",
+      "fastclick": "^1.0.6",
+      "react": "0.14.7",
+      "react-addons-css-transition-group": "^0.14.7",
+      "react-dom": "^0.14.7",
+      "react-router": "^2.0.0",
+      "reflux": "^0.3.0",
+      "reflux-state-mixin": "^0.7.0",
+      "stylus": "^0.53.0"
+    },
+    "devDependencies": {
+      "babel": "babel-core@^5.8.24",
+      "babel-runtime": "^5.8.24",
+      "core-js": "^1.1.4"
+    }
+  }
+}
