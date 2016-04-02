@@ -1,6 +1,6 @@
 # Redova
 
-Redova is a bare-bones [Cordova](https://cordova.apache.org/docs/en/5.0.0/guide/overview/index.html) + [ReactJS](https://facebook.github.io/react/docs/getting-started.html) boilerplate to get you started creating awesome mobile apps quickly.
+Redova is a bare-bones [ReactJS](https://facebook.github.io/react/docs/getting-started.html) + [Cordova](https://cordova.apache.org/docs/en/5.0.0/guide/overview/index.html) boilerplate to get you started creating awesome mobile apps quickly.
 
 ##Setup
 ```
