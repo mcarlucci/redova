@@ -1,5 +1,7 @@
 # Redova
 
+Redova is a bare-bones Cordova + ReactJS project setup to get you started creating awesome mobile apps quickly.
+
 Install
 =======
 ```
