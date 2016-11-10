@@ -5,6 +5,7 @@
   "dependencies": {},
   "devDependencies": {
     "jspm": "0.16.19",
+    "shrinkwrap": "^0.4.0",
     "stylus": "^0.53.0"
   },
   "scripts": {
