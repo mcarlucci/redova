@@ -2,7 +2,7 @@
 
 Redova is a bare-bones [ReactJS](https://facebook.github.io/react/docs/getting-started.html) + [Cordova](https://cordova.apache.org/docs/en/5.0.0/guide/overview/index.html) boilerplate to get you started creating awesome mobile apps quickly.
 
-##Setup
+## Setup
 ```
 npm install -g jspm
 npm install -g cordova
@@ -12,11 +12,11 @@ jspm install
 cordova prepare
 ```
 
-##Add Platforms
+## Add Platforms
 - `cordova platform add ios`
 - `cordova platform add android`
 
-##Run
+## Run
 To run in a web browser:
 ```
 cordova run browser
